@@ -39,7 +39,7 @@ lalit chowdury
 s.n. dasgupta
 ^d
 ```
-### Display the content of the files
+### Display the content of the file
 cat < file1
 ## OUTPUT
 <img width="363" height="123" alt="image" src="https://github.com/user-attachments/assets/611805ea-4ab3-4126-97e5-e0dc39a7a8d6" />
